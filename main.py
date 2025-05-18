@@ -3,7 +3,7 @@ import httpx
 import pandas as pd
 import random
 
-GEMINI_API_KEY = ("AIzaSyC3k6AqP0dgg_LvOdKsNAorKWe9Xqf_bl0")
+GEMINI_API_KEY = ("ENTER_YOUR_GEMINI_KEY")
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
 
 
